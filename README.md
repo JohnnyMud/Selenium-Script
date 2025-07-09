@@ -1,5 +1,5 @@
 # Sports Props Web Scraper
-This is a Python-based web scraping project designed to extract player prop data from a sports betting platform ([app.prizepicks.com](url)). The script uses Selenium for browser automation, processes the data into a Pandas DataFrame, and stores the results into a PostgreSQL database. This project is ideal for building an up-to-date sports props database or feeding live projections into a data pipeline.
+This is a Python-based web scraping project designed to extract player prop data from a sports betting platform (app.prizepicks.com). The script uses Selenium for browser automation, processes the data into a Pandas DataFrame, and stores the results into a PostgreSQL database. This project is ideal for building an up-to-date sports props database or feeding live projections into a data pipeline.
 ## Features
 - Selenium Automation: Connects to a Chrome debugging session for secure manual login.
 - Data Extraction: Scrapes player names, prop types, and projection values.
